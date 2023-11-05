@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000080&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome,+Teammate!;My+name+is+Marcus+Farias.;I'm+from+Brazil.;I'm+a+computer+engineering+student.)](https://git.io/typing-svg)
 
+### Summary
+writing...
 
 ### How to reach me:
 <div align="left"> 
@@ -10,8 +12,8 @@
 </div>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marcuscfarias&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Marcus Farias github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcuscfarias&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marcuscfarias&show_icons=true&count_private=true&hide_border=true&title_color=fffff0&icon_color=fffff0&text_color=fffff0&bg_color=0d1117" alt="Marcus Farias github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcuscfarias&layout=compact&hide_border=true&title_color=fffff0&text_color=fffff0&bg_color=0d1117" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marcuscfarias&bg_color=0d1117&color=fffff0&line=000080&point=fffff0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
