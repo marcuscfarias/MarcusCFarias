@@ -1,5 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000080&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome,+Stalker!;My+name+is+Marcus+Farias.;I'm+from+Brazil.;I'm+a+computer+engineering+student.)](https://git.io/typing-svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=footer"/>
+
+
 <!--
 **MarcusCFarias/MarcusCFarias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
