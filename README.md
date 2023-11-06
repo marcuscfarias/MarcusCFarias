@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000080&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome,+Teammate!;My+name+is+Marcus+Farias.;I'm+from+Brazil.;I'm+a+computer+engineering+student.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fffff0&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome,+Teammate!;My+name+is+Marcus+Farias.;I'm+from+Brazil.;I'm+a+computer+engineering+student.)](https://git.io/typing-svg)
 
 ### Summary:
 writing...
@@ -16,9 +16,9 @@ writing...
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcuscfarias&layout=compact&hide_border=true&title_color=fffff0&text_color=fffff0&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marcuscfarias&bg_color=0d1117&color=fffff0&line=000080&point=fffff0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marcuscfarias&bg_color=0d1117&color=fffff0&line=00BFFF&point=fffff0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
 
 
 
