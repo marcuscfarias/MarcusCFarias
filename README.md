@@ -4,7 +4,7 @@
 
 ### Summary:
 
-  - 🧠 Always worrying about writing clean and understandable code as it was a representation of your ideas. Furthermore, learning without sharing is a lounely journey.
+  - 🧠 Always taking care to write clean and understandable codes as it is a representation of ideas. Furthermore, learning without sharing is a lonely journey.
   - 💻 Focused on studying and building modern .NET applications.
   - 🧑‍🎓 Currently studying computer engineering and aiming a exchange program at TUM (Technical University of Munich).
   - ⭐ I’m looking to collaborate on impactful projects
