@@ -3,7 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome,+Teammate!;My+name+is+Marcus+Farias.;I'm+from+Brazil.;I'm+a+computer+engineering+student.)](https://git.io/typing-svg)
 
 ### Summary:
-writing...
+
+  - 🧠 Always worrying about writing clean and understandable code as it was a representation of your ideas. Furthermore, learning without sharing is a lounely journey.
+  - 💻 Focused on studying and building modern .NET applications.
+  - 🧑‍🎓 Currently studying computer engineering and aiming a exchange program at TUM.
+  - ⭐ I’m looking to collaborate on impactful projects
 
 ### How to reach me:
 <div align="left"> 
